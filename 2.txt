@@ -1,3 +1,4 @@
 touch 2.txt
 Welcome to BeiJing
 hello,nice to meet you!
+Hi
